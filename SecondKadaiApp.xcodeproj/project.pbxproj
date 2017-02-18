@@ -12,6 +12,7 @@
 		5954E3E21E57505F007EA311 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5954E3E01E57505F007EA311 /* Main.storyboard */; };
 		5954E3E41E57505F007EA311 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5954E3E31E57505F007EA311 /* Assets.xcassets */; };
 		5954E3E71E57505F007EA311 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5954E3E51E57505F007EA311 /* LaunchScreen.storyboard */; };
+		5954E3EF1E575335007EA311 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5954E3EE1E575335007EA311 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		5954E3E31E57505F007EA311 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5954E3E61E57505F007EA311 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5954E3E81E57505F007EA311 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5954E3EE1E575335007EA311 /* ResultViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				5954E3DC1E57505F007EA311 /* AppDelegate.swift */,
 				5954E3DE1E57505F007EA311 /* ViewController.swift */,
 				5954E3E01E57505F007EA311 /* Main.storyboard */,
+				5954E3EE1E575335007EA311 /* ResultViewController.swift */,
 				5954E3E31E57505F007EA311 /* Assets.xcassets */,
 				5954E3E51E57505F007EA311 /* LaunchScreen.storyboard */,
 				5954E3E81E57505F007EA311 /* Info.plist */,
@@ -139,6 +142,7 @@
 			files = (
 				5954E3DF1E57505F007EA311 /* ViewController.swift in Sources */,
 				5954E3DD1E57505F007EA311 /* AppDelegate.swift in Sources */,
+				5954E3EF1E575335007EA311 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
